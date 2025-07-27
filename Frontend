@@ -1,0 +1,7 @@
+cd flipkart-clone  # or your frontend folder
+
+git init
+git remote add origin https://github.com/your-username/flipkart-clone-frontend.git
+git add .
+git commit -m "Initial frontend commit"
+git push -u origin master
